@@ -22,17 +22,6 @@ sudo systemctl status postgresql
 # sudo ufw allow 80/tcp
 # sudo ufw enable
 
-# Example: Install and configure other software or dependencies
-
-# Install application-specific dependencies
-# sudo apt-get install -y your-application-dependencies
-
-# Set up your application, e.g., download code or configure settings
-
-# Start and enable your application service
-# sudo systemctl start your-application
-# sudo systemctl enable your-application
-
 # Optional: Add your user to the sudo group if not done during instance creation
 # sudo usermod -aG sudo your-username
 
